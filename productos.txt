@@ -1,0 +1,1 @@
+[{"name":"smart-tv","price":60,"id":1},{"name":"impresora","price":360,"id":2},{"name":"celular","price":930,"id":3}]
